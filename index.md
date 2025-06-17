@@ -1,4 +1,4 @@
-![avatar](./avatar.jpg)
+![avatar](./avatar.JPG)
 # 👋 Hi, I'm Shuhan Zhang
 
 My name is **Shuhan Zhang**, and I’m a third-year undergraduate majoring in Data Science at The Chinese University of Hong Kong, Shenzhen. In 2025, I studied as a visiting student at the University of Pennsylvania and conducted summer research at UT Austin. Advised by [**Prof. Shuang Li**](https://shuangli01.github.io/) and [**Prof. Rui Gao**](https://faculty.mccombs.utexas.edu/rui.gao/index.html), I’ve worked on interpretable and context-based choice models, as well as theoretical research in reinforcement learning. Our works are published at **ICLR 2025** and selected as an oral at the **ICML 2025 MoFA Workshop**. I’m currently preparing to apply for PhD programs in Fall 2026.
