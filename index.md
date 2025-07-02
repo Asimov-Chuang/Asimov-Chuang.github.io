@@ -46,7 +46,7 @@ Courses: Bayesian Data Analysis, Numerical Optimization, Game Theory
 - **Deep Context-Dependent Choice Model**  
   *Shuhan Zhang*, Zhi Wang, Rui Gao, Shuang Li  
   *ICML 2025 MoFA Workshop (Oral 10%)*
-
+  [OpenReview](https://openreview.net/pdf?id=bXTBtUjb0c)
 ---
 
 ## 🎙️ Vocal Performance: Beatbox & A Cappella
