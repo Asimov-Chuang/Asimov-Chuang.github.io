@@ -41,12 +41,13 @@ Courses: Bayesian Data Analysis, Numerical Optimization, Game Theory
 - **Logic-Logit: A Logic-Based Approach to Choice Modeling**  
   *Shuhan Zhang*, Wendi Ren, Shuang Li  
   *ICLR 2025 (Poster)*  
-  [OpenReview](https://openreview.net/forum?id=vJgJSrYPe1)
+  [OpenReview](https://openreview.net/pdf?id=vJgJSrYPe1)
 
 - **Deep Context-Dependent Choice Model**  
   *Shuhan Zhang*, Zhi Wang, Rui Gao, Shuang Li  
   *ICML 2025 MoFA Workshop (Oral 10%)*
   [OpenReview](https://openreview.net/pdf?id=bXTBtUjb0c)
+  
 ---
 
 ## 🎙️ Vocal Performance: Beatbox & A Cappella
