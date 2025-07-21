@@ -62,6 +62,6 @@ At **CUHK-Shenzhen**, I was a core member of the university’s a cappella group
 
 - 📧 shuhanzhang@link.cuhk.edu.cn | zhang19@sas.upenn.edu 
 - 📍 Shenzhen, China  
-- 📄 [My CV](./CV.pdf)
+- 📄 [My CV](./CV-Shuhan.pdf)
 
 
