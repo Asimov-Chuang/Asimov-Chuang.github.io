@@ -7,7 +7,7 @@ title: Shuhan Zhang | Research
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Shuhan Zhang is an incoming Ph.D. student in Machine Learning (CSE) at Georgia Tech working on agent evolution, AI for decision-making, and optimization.">
+  <meta name="description" content="Shuhan Zhang is a Ph.D. student in Machine Learning (CSE) at Georgia Tech working on agentic algorithm discovery, AI for decision-making, and optimization for AI systems.">
   <title>Shuhan Zhang | Research</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -30,14 +30,14 @@ title: Shuhan Zhang | Research
   <main id="top" class="page-shell">
     <section class="profile" aria-labelledby="profile-name">
       <div class="profile-copy">
-        <p class="position">Incoming Ph.D. student in Machine Learning (CSE)</p>
+        <p class="position">Ph.D. student in Machine Learning (CSE)</p>
         <h1 id="profile-name">Shuhan Zhang</h1>
         <p class="affiliation">Georgia Institute of Technology</p>
 
         <div class="bio">
-          <p>I am an incoming Ph.D. student in Machine Learning (CSE) at Georgia Tech, advised by <a href="https://guaguakai.com/">Prof. Kai Wang</a>. My research lies at the intersection of <strong>agent evolution</strong>, <strong>decision-making</strong>, and <strong>optimization</strong>.</p>
-          <p>I study how intelligent systems can improve not only a solution, but also the process that produces it: the algorithms they search, the feedback they use, and the evaluation mechanisms that guide them. I am also interested in interpretable choice models and reinforcement learning through the lens of optimization.</p>
-          <p>Previously, I completed my B.S. at CUHK-Shenzhen, visited the University of Pennsylvania, conducted research at UT Austin, and worked as a research intern at Microsoft Research Asia.</p>
+          <p>I am a Ph.D. student in Machine Learning (CSE) at Georgia Tech, advised by <a href="https://guaguakai.com/">Prof. Kai Wang</a>. My research lies at the intersection of <strong>AI for decision-making</strong> and <strong>operations research for AI systems</strong>.</p>
+          <p>I study how intelligent systems can improve not only a solution, but also the process that produces it: the algorithms they discover, the feedback they rely on, and the evaluation mechanisms that guide them. My current interests include agentic algorithm discovery, decision-focused learning, learning-augmented systems, and efficient agentic inference.</p>
+          <p>I also work on interpretable choice models and reinforcement learning through the lens of optimization. Previously, I completed my B.S. at CUHK-Shenzhen, visited the University of Pennsylvania, conducted research at UT Austin, and worked as a research intern at Microsoft Research Asia.</p>
         </div>
 
         <div class="profile-links" aria-label="Profile links">
@@ -56,8 +56,8 @@ title: Shuhan Zhang | Research
     <section class="content-section news-section" aria-labelledby="news-heading">
       <h2 id="news-heading">News</h2>
       <div class="news-list">
-        <div class="news-item"><time>Aug 2026</time><p>I will join Georgia Tech as an incoming Ph.D. student in Machine Learning (CSE).</p></div>
-        <div class="news-item"><time>2026</time><p>I joined Microsoft Research Asia as a research intern, studying feedback in agentic algorithm discovery.</p></div>
+        <div class="news-item"><time>Sep 2026</time><p>I started my Ph.D. in Machine Learning (CSE) at Georgia Tech.</p></div>
+        <div class="news-item"><time>2026</time><p>I worked at Microsoft Research Asia on feedback mechanisms for agentic algorithm discovery.</p></div>
         <div class="news-item"><time>Dec 2025</time><p>DeepHalo was presented as a Spotlight at NeurIPS 2025.</p></div>
         <div class="news-item"><time>Jan 2025</time><p>Logic-Logit was accepted to ICLR 2025.</p></div>
       </div>
@@ -66,9 +66,9 @@ title: Shuhan Zhang | Research
     <section class="content-section" id="research" aria-labelledby="research-heading">
       <h2 id="research-heading">Research interests</h2>
       <div class="research-columns">
-        <article><h3>Agent evolution</h3><p>Algorithm discovery, recursive self-improvement, harness evolution, and feedback-system design.</p></article>
-        <article><h3>AI for decision-making</h3><p>Choice modeling, decision-focused learning, preference learning, and human–AI interaction.</p></article>
-        <article><h3>Optimization & learning</h3><p>Reinforcement learning, Wasserstein geometry, differentiable optimization, and online learning.</p></article>
+        <article><h3>Agentic algorithm discovery</h3><p>Algorithm evolution, recursive improvement, feedback-system design, and reliable evaluation for coding and research agents.</p></article>
+        <article><h3>AI for decision-making</h3><p>Decision-focused learning, contextual optimization, interpretable choice modeling, and human–AI interaction.</p></article>
+        <article><h3>OR for AI systems</h3><p>Learning-augmented optimization, efficient agentic inference, online decision-making, and resource-aware AI systems.</p></article>
       </div>
     </section>
 
@@ -85,6 +85,17 @@ title: Shuhan Zhang | Research
             <p class="authors"><strong>Shuhan Zhang*</strong>, Lu Wang†, Shuang Li, Qingwei Lin, Dongmei Zhang, Hongyuan Zha, Saravan Rajmohan, Qi Zhang</p>
             <p class="venue"><strong>Working paper</strong><span> · Agentic AI · Algorithm discovery</span></p>
             <p class="publication-description">A mechanism-driven study of when richer feedback helps—or misleads—coding agents searching for better algorithms.</p>
+          </div>
+        </article>
+
+        <article class="publication">
+          <div class="publication-year">2026</div>
+          <div class="publication-body">
+            <h3>Wasserstein Proximal Policy Gradient</h3>
+            <p class="authors"><strong>Shuhan Zhang</strong> et al.</p>
+            <p class="venue"><strong>Under review</strong><span> · Reinforcement learning · Wasserstein geometry</span></p>
+            <p class="publication-description">Policy optimization through Wasserstein geometry, with expressive implicit policy classes and distributional updates.</p>
+            <div class="publication-links"><a href="https://github.com/Asimov-Chuang/wasserstein-proximal-policy-gradient">Code</a></div>
           </div>
         </article>
 
@@ -109,24 +120,13 @@ title: Shuhan Zhang | Research
             <div class="publication-links"><a href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/eb08c521d8db3c4acc6b4bc4f6e14173-Abstract-Conference.html">Paper</a></div>
           </div>
         </article>
-
-        <article class="publication">
-          <div class="publication-year">2026</div>
-          <div class="publication-body">
-            <h3>Wasserstein Proximal Policy Gradient</h3>
-            <p class="authors"><strong>Shuhan Zhang</strong> et al.</p>
-            <p class="venue"><strong>Under review</strong><span> · Reinforcement learning · Wasserstein geometry</span></p>
-            <p class="publication-description">Policy optimization through Wasserstein geometry, with expressive implicit policy classes and distributional updates.</p>
-            <div class="publication-links"><a href="https://github.com/Asimov-Chuang/wasserstein-proximal-policy-gradient">Code</a></div>
-          </div>
-        </article>
       </div>
     </section>
 
     <section class="content-section" id="experience" aria-labelledby="experience-heading">
       <h2 id="experience-heading">Education &amp; experience</h2>
       <div class="experience-list">
-        <article class="experience-item"><time>Fall 2026 —</time><div><h3>Ph.D. in Machine Learning (CSE)</h3><p class="place">Georgia Institute of Technology</p><p class="detail">Incoming student; advised by Prof. Kai Wang</p></div></article>
+        <article class="experience-item"><time>2026 — Present</time><div><h3>Ph.D. in Machine Learning (CSE)</h3><p class="place">Georgia Institute of Technology</p><p class="detail">Advised by Prof. Kai Wang</p></div></article>
         <article class="experience-item"><time>2026</time><div><h3>Research Intern</h3><p class="place">Microsoft Research Asia</p><p class="detail">Agentic algorithm discovery and feedback systems</p></div></article>
         <article class="experience-item"><time>Summer 2025</time><div><h3>Summer Researcher</h3><p class="place">The University of Texas at Austin</p><p class="detail">Reinforcement learning and policy optimization</p></div></article>
         <article class="experience-item"><time>Spring 2025</time><div><h3>Visiting Student</h3><p class="place">University of Pennsylvania</p><p class="detail">Optimization, Bayesian analysis, and game theory</p></div></article>
@@ -137,7 +137,7 @@ title: Shuhan Zhang | Research
 
   <footer id="contact">
     <div class="footer-inner">
-      <div><strong>Shuhan Zhang</strong><p>Incoming Ph.D. student in Machine Learning (CSE) · Georgia Tech</p></div>
+      <div><strong>Shuhan Zhang</strong><p>Ph.D. student in Machine Learning (CSE) · Georgia Tech</p></div>
       <div class="footer-links"><a href="mailto:szhang3007@gatech.edu">szhang3007@gatech.edu</a><a href="#top">Back to top ↑</a></div>
     </div>
   </footer>
