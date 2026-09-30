@@ -56,7 +56,6 @@ title: Shuhan Zhang | Research
       <h2 id="news-heading">News</h2>
       <div class="news-list">
         <div class="news-item"><time>Sep 2026</time><p>Wasserstein Proximal Policy Gradient was accepted as a poster at DynaFront @ NeurIPS 2026.</p></div>
-        <div class="news-item"><time>Sep 2026</time><p>Two new preprints on agentic algorithm discovery and learning with black-box feedback.</p></div>
         <div class="news-item"><time>Sep 2026</time><p>I started my Ph.D. in Machine Learning (CSE) at Georgia Tech.</p></div>
         <div class="news-item"><time>2026</time><p>I worked at Microsoft Research Asia on feedback mechanisms for agentic algorithm discovery.</p></div>
         <div class="news-item"><time>Dec 2025</time><p>DeepHalo was presented as a Spotlight at NeurIPS 2025.</p></div>
@@ -79,27 +78,6 @@ title: Shuhan Zhang | Research
         <a href="https://scholar.google.com/citations?user=taugnTAAAAAJ&hl=en">Full list on Google Scholar ↗</a>
       </div>
       <div class="publication-list">
-        <article class="publication">
-          <div class="publication-year">2026</div>
-          <div class="publication-body">
-            <h3>Feedback and Exploration in Algorithm Discovery</h3>
-            <p class="authors"><strong>Shuhan Zhang*</strong>, Lu Wang†, Shuang Li, Qingwei Lin, Dongmei Zhang, Hongyuan Zha, Saravan Rajmohan, Qi Zhang</p>
-            <p class="venue"><strong>Under review</strong><span> · Agentic AI · Algorithm discovery</span></p>
-            <p class="publication-description">A study of how truthful auxiliary feedback can restrict exploration in agentic algorithm discovery, supported by matched experiments and an auxiliary-guided Bayesian optimization analysis.</p>
-            <p class="publication-description"><strong>My role:</strong> Led this project throughout my research internship at Microsoft Research Asia, from conception through experiments, analysis, and manuscript preparation.</p>
-          </div>
-        </article>
-
-        <article class="publication">
-          <div class="publication-year">2026</div>
-          <div class="publication-body">
-            <h3>Variance Reduction in Black-Box Learning</h3>
-            <p class="venue"><strong>Under review</strong><span> · Black-box learning · Variance reduction</span></p>
-            <p class="publication-description">Variance-optimal corrections to action-value control variates for score-function gradient estimators, reducing variance under shared parameters without additional oracle evaluations.</p>
-            <p class="publication-description"><strong>My role:</strong> Responsible for the job-shop scheduling experiments.</p>
-          </div>
-        </article>
-
         <article class="publication">
           <div class="publication-year">2026</div>
           <div class="publication-body">
