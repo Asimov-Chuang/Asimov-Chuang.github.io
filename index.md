@@ -56,7 +56,7 @@ title: Shuhan Zhang | Research
       <h2 id="news-heading">News</h2>
       <div class="news-list">
         <div class="news-item"><time>Sep 2026</time><p>Wasserstein Proximal Policy Gradient was accepted as a poster at DynaFront @ NeurIPS 2026.</p></div>
-        <div class="news-item"><time>Sep 2026</time><p>Two papers are under review: Feedback Is Not a Free Lunch, which I led throughout my research internship at Microsoft Research Asia, and Variance-Optimal Control Variates, for which I was responsible for the job-shop scheduling experiments.</p></div>
+        <div class="news-item"><time>Sep 2026</time><p>Two new preprints: Feedback Is Not a Free Lunch and Variance-Optimal Control Variates.</p></div>
         <div class="news-item"><time>Sep 2026</time><p>I started my Ph.D. in Machine Learning (CSE) at Georgia Tech.</p></div>
         <div class="news-item"><time>2026</time><p>I worked at Microsoft Research Asia on feedback mechanisms for agentic algorithm discovery.</p></div>
         <div class="news-item"><time>Dec 2025</time><p>DeepHalo was presented as a Spotlight at NeurIPS 2025.</p></div>
